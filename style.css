@@ -1,17 +1,19 @@
 body {
-  background-color: cornflowerblue;
-  color: darkslateblue;
-  font-size: 25px;
+  background-color: bisque;
+  font-size: 20px;
 }
-h1 {
-  color: darkolivegreen;
-}
+
 .main-header {
+  color: darkorchid;
   text-align: center;
-  margin-top: 30px;
+}
+.sub-header {
+  color: cornflowerblue;
+  text-align: center;
+}
+.header-background {
+  margin-top: 20px;
   border: 3px solid palevioletred;
-  padding: 50px 25px;
-  background-color: tomato;
-  height: 30vh;
-  width: 50vw;
+  padding: 10px 10px;
+  background-image: url(img/autumn.jfif);
 }
