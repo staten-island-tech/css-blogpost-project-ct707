@@ -1,19 +1,40 @@
 body {
-  background-color: bisque;
+  background-color: chocolate;
   font-size: 20px;
+  font-family: "Stick No Bills", sans-serif;
 }
 
 .main-header {
-  color: darkorchid;
+  color: darkgreen;
   text-align: center;
 }
 .sub-header {
-  color: cornflowerblue;
+  color: orangered;
   text-align: center;
 }
 .header-background {
   margin-top: 20px;
-  border: 3px solid palevioletred;
+  border: 3px solid gold;
   padding: 10px 10px;
   background-image: url(img/autumn.jfif);
+}
+.blogposts {
+  margin: 30px auto;
+  padding: 10px 10px;
+  background-color: maroon;
+  text-align: center;
+  width: 50vw;
+  height: 40vh;
+}
+.first {
+  border: 5px solid maroon;
+  height: 300px;
+  width: 300px;
+  position: relative;
+}
+.second {
+  border: 3px solid green;
+  position: absolute;
+  top: 50px;
+  left: 50px;
 }
