@@ -1,12 +1,13 @@
 body {
   background-color: chocolate;
   font-size: 20px;
-  font-family: "Stick No Bills", sans-serif;
+  font-family: "Yaldevi", sans-serif;
 }
 
 .main-header {
   color: darkgreen;
   text-align: center;
+  font-weight: bolder;
 }
 .sub-header {
   color: orangered;
@@ -14,27 +15,21 @@ body {
 }
 .header-background {
   margin-top: 20px;
-  border: 3px solid gold;
   padding: 10px 10px;
   background-image: url(img/autumn.jfif);
 }
 .blogposts {
-  margin: 30px auto;
-  padding: 10px 10px;
+  margin: 25px auto;
+  padding: 1px 10px 10px 10px;
   background-color: maroon;
   text-align: center;
-  width: 50vw;
+  width: 40vw;
   height: 40vh;
 }
-.first {
-  border: 5px solid maroon;
-  height: 300px;
-  width: 300px;
-  position: relative;
+.post-title {
+  font-weight: bold;
 }
-.second {
-  border: 3px solid green;
-  position: absolute;
-  top: 50px;
-  left: 50px;
+.post-image {
+  width: 200px;
+  height: 200px;
 }
