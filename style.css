@@ -5,12 +5,12 @@ body {
 }
 
 .main-header {
-  color: darkgreen;
+  color: darkred;
   text-align: center;
   font-weight: bolder;
 }
 .sub-header {
-  color: orangered;
+  color: chocolate;
   text-align: center;
 }
 .header-background {
@@ -28,8 +28,12 @@ body {
 }
 .post-title {
   font-weight: bold;
+  color: orangered;
 }
 .post-image {
-  width: 200px;
+  width: 250px;
   height: 200px;
+}
+.post-words {
+  color: orange;
 }
