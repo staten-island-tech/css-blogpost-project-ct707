@@ -1,10 +1,10 @@
 body {
   background-color: chocolate;
   font-size: 20px;
-  font-family: "Yaldevi", sans-serif;
+  font-family: 'Josefin Sans', sans-serif;
 }
 
-.main-header {
+#main-header {
   color: darkred;
   text-align: center;
   font-weight: bolder;
@@ -20,11 +20,11 @@ body {
 }
 .blogposts {
   margin: 25px auto;
-  padding: 1px 10px 10px 10px;
+  padding: 10px 10px 10px 10px;
   background-color: maroon;
   text-align: center;
   width: 40vw;
-  height: 40vh;
+  height: 45vh;
 }
 .post-title {
   font-weight: bold;
@@ -36,4 +36,7 @@ body {
 }
 .post-words {
   color: orange;
+}
+.post-links {
+  color:goldenrod;
 }
