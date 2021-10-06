@@ -19,12 +19,12 @@ body {
   background-image: url(img/autumn.jfif);
 }
 .blogposts {
-  margin: 25px auto;
-  padding: 10px 10px 10px 10px;
+  margin: 40px auto;
+  padding: 20px 20px 50px 20px;
   background-color: maroon;
   text-align: center;
   width: 40vw;
-  height: 45vh;
+  height: 50vh;
 }
 .post-title {
   font-weight: bold;
